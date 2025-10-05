@@ -1,12 +1,18 @@
-# 📚 Exercícios da Faculdade
+# 💻 Exercícios e Projetos em C
 
-Este repositório contém os exercícios que venho desenvolvendo ao longo da graduação, com foco em:
+Repositório com exercícios e pequenos projetos desenvolvidos em **linguagem C**, voltados ao aprimoramento da lógica de programação, manipulação de dados e construção de aplicações estruturadas em console.
 
-- 🧠 Lógica de programação
-- 💻 Linguagem C (ponteiros, structs, arquivos)
-- 🌐 Desenvolvimento web (HTML, CSS, JavaScript)
-- 🗃️ Banco de dados e consultas SQL
-- 🛠️ Projetos em PHP e CRUDs
+---
+## 🚀 Conteúdo
+- Estruturas de controle, funções e modularização  
+- Manipulação de vetores, matrizes e strings  
+- Uso de ponteiros e structs para modelagem de dados  
+- Leitura e gravação de arquivos (`fopen`, `fread`, `fwrite`)  
+- Mini sistemas CRUD e exercícios de aplicação prática  
 
-Organizados por linguagem e tema, com comentários nos códigos explicando cada passo.  
-Sinta-se à vontade para explorar!
+---
+
+## ⚙️ Tecnologias
+- C (ANSI/C99)  
+- GCC  
+- VS Code / Code::Blocks  
